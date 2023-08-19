@@ -29,5 +29,6 @@ PUT /api/bares/:barId: Actualiza la información de un bar existente.
 DELETE /api/bares/:barId: Elimina un bar de la base de datos.
 
 
-Insertar un Elemento de prueba: Para insertar un nuevo bar en la colección, puedes usar el script pruebas/pruebaBar.js. Ejecuta el siguiente comando en tu terminal:
+## Insertar un Elemento de prueba: 
+Para insertar un nuevo bar en la colección, puedes usar el script pruebas/pruebaBar.js. Ejecuta el siguiente comando en tu terminal:
   node pruebas/pruebaBar.js
